@@ -1,0 +1,86 @@
+body
+{
+  padding: 0;
+  margin: 0;
+  background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+}
+
+.userPassword{
+	text-align: center;
+    width: 400px;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.login{
+	justify-content: center;
+	display: flex;
+	margin-top: 120px;
+}
+
+form{
+	padding: 15px;
+	margin: 15px;
+}
+
+.userName{
+	 margin: 10px;
+	 padding: 10px;
+	 border: 0;
+	 color:  black;
+	 font-size: 18px;
+	 background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+}
+
+#password {
+	 margin: 10px;
+	 padding: 10px;
+	 border: 0;
+	 color:  black;
+	 font-size: 18px;
+	 background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+}
+
+.signin{
+	padding: 6px;
+	padding-left: 10PX;
+	padding-right: 10px;
+	background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+	margin-left: 0;
+	margin-right: 90px;
+	font-size: 18px;
+	border: 0.2px solid white;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    border-radius: 15px;
+
+}
+
+.signup{
+	background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+	margin-right: 40px;
+	font-size: 18px;
+	border: none;
+	margin: 10px;
+	padding: 6px;
+	box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+	border-radius: 15px;
+
+
+}
+
+
+
+.btnButtom{
+    margin: 10px;
+    background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+    border: 0;
+}
+
+a {
+      color: inherit; 
+      text-decoration: none;
+    }
